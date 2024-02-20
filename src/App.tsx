@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
         <p>
-          I changed code in a React App
+          I Have now used A Pipeline to invalidate cache and deploy my app
         </p>
       </div>
       <p className="read-the-docs">
